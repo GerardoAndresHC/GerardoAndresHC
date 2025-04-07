@@ -52,15 +52,18 @@
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
 ![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Astro](http://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Oracle](http://img.shields.io/badge/-Oracle-e8892f?style=flat-square&logo=&logoColor=white)
 
 ![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
 ![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
+![Oracle](http://img.shields.io/badge/-Oracle-e8892f?style=flat-square&logo=&logoColor=white)
+![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
+![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-484848?style=flat-square&logo=sublimetext)
 ![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=flat-square&logo=eclipse&logoColor=white)
-![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
+
 
 
 
