@@ -46,7 +46,7 @@
 
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
-![C++](http://img.shields.io/badge/-c++-fcd400?style=flat-square&logo=cplusplus&logoColor=blue)
+![C++](http://img.shields.io/badge/-c++-00599C?style=flat-square&logo=cplusplus&logoColor=blue)
 ![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
