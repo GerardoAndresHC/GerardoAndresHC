@@ -24,19 +24,18 @@
 
 <br><br>
 
-🔭 I’m currently working on **Magento 2**
+🚀 Ingeniero en TIC’s enfocado en desarrollo de software eficiente y bien estructurado.
 
-🌱 I’m currently learning **Magento 2 cloud**
+🧠 Soluciono problemas con lógica, creatividad… y uno que otro chiste entre líneas de código.
 
-👨‍💻 All of my projects are available at [Supravat's works](https://supravatm.github.io/projects)
+💻 1% genio, 99% intentando que compile.
 
-💬 Ask me about **PHP, Magento, LAMP**
+📫 Cómo contactarme: gerardoandreshernandez@gmail.com
 
-📫 How to reach me **supravt.com@gmail.com**
+👨‍💻 Todos mis proyectos están disponibles en 
 
-📄 Know about my experiences [my experiences](http://supravatm.github.io)
+⚡ Dato curioso: Creo que soy gracioso. GitHub no opina lo mismo.
 
-⚡ Fun fact **I think I'm funny**
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
