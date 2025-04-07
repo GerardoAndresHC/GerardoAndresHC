@@ -58,6 +58,7 @@
 ![Oracle](http://img.shields.io/badge/-Oracle-e8892f?style=flat-square&logo=&logoColor=white)
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![Android](http://img.shields.io/badge/-Android Studio-FCC624?style=flat-square&logo=linux&logoColor=white)
 
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
