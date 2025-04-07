@@ -65,7 +65,12 @@
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-484848?style=flat-square&logo=sublimetext)
 ![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=flat-square&logo=eclipse&logoColor=white)
 
-
+<div align="center">
+<h3><b>  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50"/>&nbsp; Git profile Trophies</b></h3>
+</div>
+<div align="center">
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rock12231" alt="rock12231" /></a> </p>
+</div>
 
 
 
