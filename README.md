@@ -69,7 +69,7 @@
 <h3><b>  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50"/>&nbsp; Git profile Trophies</b></h3>
 </div>
 <div align="center">
- <p align="center"> <a href="https://github.com/GerardoAndresHC/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rock12231" alt="rock12231" /></a> </p>
+ <p align="center"> <a href="https://github.com/GerardoAndresHC/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GerardoAndresHC" alt="rock12231" /></a> </p>
 </div>
 
 
