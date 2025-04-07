@@ -65,7 +65,7 @@
 ![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=flat-square&logo=eclipse&logoColor=white)
 
 <div align="center">
-<h3><b>  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50"/>&nbsp; Git profile Trophies</b></h3>
+<h3><b>  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50"/>&nbsp; Trofeos de Gits</b></h3>
 </div>
 <div align="center">
  <p align="center"> <a href="https://github.com/GerardoAndresHC"><img src="https://github-profile-trophy.vercel.app/?username=GerardoAndresHC" alt="rock12231" /></a> </p>
