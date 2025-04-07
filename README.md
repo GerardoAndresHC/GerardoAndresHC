@@ -41,7 +41,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-#### Languages and Tools:
+#### Languages y herramientas:
 
 
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
